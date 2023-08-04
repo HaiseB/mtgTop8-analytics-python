@@ -2,6 +2,7 @@
 I needed to access some data to choose the lowest decklist
 
 > pip install requests
+
 > pip install beautifulsoup4
 
 using like this 
