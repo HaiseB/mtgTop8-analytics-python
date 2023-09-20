@@ -1,5 +1,5 @@
 # mtgTop8-analytics-python
-I needed to access some data to choose the lowest decklist
+I needed to access some data to choose the lowest decklist prices
 
 > pip install requests
 
